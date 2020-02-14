@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thohhaishu.miketien.com/sitemap.xml
